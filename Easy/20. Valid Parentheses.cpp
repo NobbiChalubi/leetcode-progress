@@ -2,6 +2,11 @@
 #include <unordered_map>
 #include <stack>
 
+//Problem: Valid Parentheses
+//Link: https://leetcode.com/problems/valid-parentheses/
+//Date: 11/15/25
+//Difficulty: Easy
+//Concepts: Stack
 
 
 bool isValid(std::string& s) {
