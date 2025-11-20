@@ -6,7 +6,10 @@
 //Link: https://leetcode.com/problems/valid-parentheses/
 //Date: 11/15/25
 //Difficulty: Easy
+//Time Complexity: O(n)
+//Space Complexity: O(n)
 //Concepts: Stack
+//Notes: Stack basically means a stack of books you tap off the top FILO
 
 
 bool isValid(std::string& s) {
