@@ -5,7 +5,7 @@
 //Problem: Two Sum II - Input Array Is Sorted
 //Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 //Date: 11/19/25
-//Difficulty: Easy
+//Difficulty: Medium
 //Time Complexity: O(n)
 //Space Complexity: O(1)
 //Concepts: Hash Table, or Two Pointers
